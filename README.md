@@ -1,3 +1,40 @@
+## Caracterisitcas del aplicativo.
+
+El objetivo del aplicativo es ser utilizado para brindar infgormación sobre el maltrato familiar, y tambien muestra los sitios puntuales donde realizar la denuncia.
+
+El proyecto ha sido creado con las siguientes herramientas
+Node
+javaScript
+Reactjs 16.6 (aprovechando sus componentes)
+de las cuales se usaron las siguientes dependencias:
+
+    "@material-ui/core": "^3.3.2",
+    "@material-ui/icons": "^3.0.1",
+    "google-map-react": "^1.1.0",
+    "react": "^16.6.0",
+    "react-autosuggest": "^9.4.2",
+    "react-dom": "^16.6.0",
+    "react-facebook-login": "^4.1.1",
+    "react-firebase": "^2.2.8",
+    "react-firebaseui": "^3.1.2",
+    "react-md": "^1.8.0",
+    "react-pdf": "^3.0.6",
+    "react-pdf-js": "^4.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-scroll-up-button": "^1.6.4",
+    "typeface-roboto": "0.0.54"
+    
+ La base de datos y el reguistro de usuarios se realiza por medio de Firebase Auth
+ donde la visualizacion de los usuarios registrados es la siguiente:
+ 
+ https://console.firebase.google.com/u/0/project/denuncia-formularios/authentication/users
+ 
+ el proyecto es demostrativo.
+
+
+## información adicional
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
